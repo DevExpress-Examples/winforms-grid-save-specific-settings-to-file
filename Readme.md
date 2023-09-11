@@ -13,3 +13,8 @@ This example shows how to create a custom serializer (`GridLayoutSerializer`) to
 
 * [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
 * [GridLayoutSerializer.cs](./CS/WindowsApplication1/GridLayoutSerializer.cs) (VB: [GridLayoutSerializer.vb](./VB/WindowsApplication1/GridLayoutSerializer.vb))
+
+
+## Documentation
+
+* [Save and Restore Grid Layout](https://docs.devexpress.com/WindowsForms/772/controls-and-libraries/data-grid/save-and-restore-layout)
