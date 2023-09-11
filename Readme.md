@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Data Grid - Save/restore only specific view settings to a file
+# WinForms Data Grid - Save and restore only specific view settings to/from a file
 
 This example shows how to create a custom serializer (`GridLayoutSerializer`) to save/restore only certain layout information.
 
